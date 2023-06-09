@@ -1,0 +1,10 @@
+google-api-python-client
+google-cloud-pubsub
+mysql-connector-python
+pyspark
+ipykernel
+jupyterlab
+notebook
+matplotlib
+pandas
+apache-airflow
