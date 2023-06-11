@@ -4,7 +4,7 @@
 export PUB_SUB_TOPIC="your_pub_sub_topic"
 export PUB_SUB_PROJECT="your_pub_sub_project"
 export PUB_SUB_SUBSCRIPTION="your_pub_sub_subscription"
-export GOOGLE_CREDS_KEY="your_google_creds_key"
+export GOOGLE_APPLICATION_CREDENTIALS="your_google_creds_key"
 export FILE_PATH="your_file_path"
 export HOST="your_host"
 export USER="your_user"

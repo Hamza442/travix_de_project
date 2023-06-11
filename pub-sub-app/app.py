@@ -12,7 +12,7 @@ import ast
 PUB_SUB_TOPIC = os.environ.get('PUB_SUB_TOPIC')
 PUB_SUB_PROJECT = os.environ.get('PUB_SUB_PROJECT')
 PUB_SUB_SUBSCRIPTION = os.environ.get('PUB_SUB_SUBSCRIPTION')
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=os.environ.get('GOOGLE_CREDS_KEY')
+#os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=""
 filepath = os.environ.get('FILE_PATH')
 # Pub/Sub consumer timeout
 timeout = 3.0
