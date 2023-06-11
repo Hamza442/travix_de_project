@@ -9,5 +9,3 @@ source venv/bin/activate
 # Install dependencies from requirements.txt
 pip install -r requirements.txt
 
-# Execute additional commands or scripts here if needed
-

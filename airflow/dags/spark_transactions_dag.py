@@ -16,7 +16,7 @@ URL = os.environ.get('URL'),
 DRIVER = os.environ.get('DRIVER'),
 DBTABLE = os.environ.get('DBTABLE'),
 USER = os.environ.get('USER'),
-PASS = os.environ.get('PASS')
+PASS = os.environ.get('PASSWORD')
 filepath = os.environ.get('FILE_PATH_2')
 
 def create_spark_session():
